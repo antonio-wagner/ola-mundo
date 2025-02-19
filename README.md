@@ -1,2 +1,2 @@
-# ola-mundo
-Este repositório é para praticar o fluxo do GitHub.
+# Olá, meu nome é Antônio Wagner
+Estou aprendendo programação do zero.
